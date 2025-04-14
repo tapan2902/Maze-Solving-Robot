@@ -61,7 +61,7 @@ This plot compares how many discrete control steps each controller takes to solv
 
 ### 2. Mean Tracking Error
 
-![Mean Error](./mean_error_latest.png)
+![Mean Error](./images/mean_error_latest.png)
 
 This graph shows the average deviation from the planned trajectory across the entire path. Lower values indicate better trajectory following.
 
@@ -69,7 +69,7 @@ This graph shows the average deviation from the planned trajectory across the en
 
 ### 3. Total Path Length
 
-![Path Length](./total_path_length_latest.png)
+![Path Length](./images/total_path_length_latest.png)
 
 Here we observe the total distance traveled by the robot across each maze. Ideally, this should be close to the PRM path length.
 
@@ -77,7 +77,7 @@ Here we observe the total distance traveled by the robot across each maze. Ideal
 
 ### 4. Total Time to Completion
 
-![Total Time](./total_time_taken_latest.png)
+![Total Time](./images/total_time_taken_latest.png)
 
 This metric captures how long (in seconds) each controller takes to reach the goal from the start. Lower time often correlates with higher average speed and efficient control.
 
