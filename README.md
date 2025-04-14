@@ -82,6 +82,8 @@ Here we observe the total distance traveled by the robot across each maze. Ideal
 This metric captures how long (in seconds) each controller takes to reach the goal from the start. Lower time often correlates with higher average speed and efficient control.
 
 ---
+[![Watch the demo](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)]([https://www.youtube.com/watch?v=<VIDEO_ID>](https://youtu.be/402XOL44hUg))
+
 
 ## License
 
