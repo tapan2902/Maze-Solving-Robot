@@ -53,7 +53,7 @@ Below are the comparative plots evaluating the performance of all four controlle
 
 ### 1. Number of Control Steps
 
-![Control Steps](./Control_steps_latest.png)
+![Control Steps](./images/Control_steps_latest.png)
 
 This plot compares how many discrete control steps each controller takes to solve each maze. Fewer steps generally indicate smoother or more efficient control.
 
